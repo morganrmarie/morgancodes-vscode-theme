@@ -1,0 +1,21 @@
+{
+    "name": "morgan-codes",
+    "displayName": "morgan.codes",
+    "description": "my custom vscode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "morgan.codes",
+                "uiTheme": "vs-dark",
+                "path": "./themes/morgan.codes-color-theme.json"
+            }
+        ]
+    }
+}
