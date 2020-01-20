@@ -1,7 +1,9 @@
 {
-    "name": "morgan-codes",
-    "displayName": "morgan.codes",
-    "description": "my custom vscode theme",
+    "name": "morgan-codes-vscode-theme",
+    "publisher": "morgan-codes",
+    "icon": "images/icon.jpg",
+    "displayName": "morgan.codes-theme",
+    "description": "A bright, modern, contrasting theme - created for you, by Morgan Richardson.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.41.0"
@@ -17,5 +19,9 @@
                 "path": "./themes/morgan.codes-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/morganrmarie/morgancodes-vscode-theme"
     }
 }

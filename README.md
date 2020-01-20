@@ -1,13 +1,14 @@
-# README
-## This is the README for your extension "morgan-codes"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+<p align="center">
+  <a href="https://www.gatsbyjs.org">
+    <img alt="morgan.codes theme icon" src="images/icon.jpg" width="100" />
+  </a>
+</p>
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+# VSCode theme - morgan.codes
+## Created for you, by [@morgan.codes](https://www.instagram.com/morgan.codes)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+A bright, modern, contrasting dark theme. If you like most of theme, but not every color choice, feel free to fork this theme and create a variation of your own 🦄
 
-**Enjoy!**
+![morgan.codes theme example](images/code-example.jpg)
+
+*Light theme coming **soon***
