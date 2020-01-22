@@ -3,22 +3,22 @@
 	"type": "dark",
 	"colors": {
 		// Editor 
-		"editor.background": "#080808",
+		"editor.background": "#111111",
 		"editor.foreground": "#ff8b56",
 		"foreground": "#8a8a8a",
 		"editor.selectionBackground": "#4d4d4d5b",
 
 		// Activity bar
 		"activityBarBadge.background": "#fc4384",
-		"activityBar.background": "#080808",
+		"activityBar.background": "#111111",
 		"activityBar.border": "#202020",
 		"activityBar.dropBackground": "#fc438483",
 
 		// Side bar
 		"sideBarTitle.foreground": "#a183d3",
-		"sideBarSectionHeader.foreground": "#fc4384",
-		"sideBarSectionHeader.background": "#080808",
-		"sideBar.background": "#080808",
+		"sideBarSectionHeader.foreground": "#fc4384bb",
+		"sideBarSectionHeader.background": "#111111",
+		"sideBar.background": "#111111",
 		"sideBar.border": "#202020",
 
 		// Lists and trees
@@ -35,23 +35,23 @@
 		"textLink.foreground": "#fc4384",
 
 		// Gutter
-		"editorGutter.deletedBackground": "#ff0000",
+		"editorGutter.deletedBackground": "#ff0055",
 		"editorGutter.addedBackground": "#fc4384",
 		"editorGutter.modifiedBackground": "#9765c9",
 
 		// Selection and matches
 		"editor.selectionHighlightBorder": "#e18cc9",
 		"editor.selectionHighlightBackground": "#6241a450",
-		"editor.selectionForeground": "#ff0000",
-		"editor.findMatchHighlightBackground": "#ff0000",
+		"editor.selectionForeground": "#eff8ff",
+		"editor.findMatchHighlightBackground": "#ff2b7c8e",
 		"editor.hoverHighlightBackground": "#ff000013",
 		"editor.lineHighlightBackground": "#2b2b2b50",
 		"editor.lineHighlightBorder": "#00000000",
 		"editorOverviewRuler.bracketMatchForeground": "#985bd143",
 
 		// Diff
-		"diffEditor.insertedTextBackground": "#00ff9113",
-		"diffEditor.removedTextBackground": "#f56ad522",
+		"diffEditor.insertedTextBackground": "#1eff0013",
+		"diffEditor.removedTextBackground": "#ff027822",
 
 		// Inputs
 		"input.background": "#151515",
@@ -73,7 +73,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#2f2f2f"
+				"foreground": "#646464"
 			}
 		},
 		{
@@ -102,7 +102,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#8a7679"
+				"foreground": "#ff3957"
 			}
 		},
 		{
@@ -130,7 +130,7 @@
 				"keyword.other.substitution"
 			], 
 			"settings": {
-				"foreground": "#696969b7"
+				"foreground": "#999999"
 			}
 		},
 		{
