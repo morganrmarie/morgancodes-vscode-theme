@@ -12,12 +12,7 @@
 		  to keep or delete
 	  */
     // "foreground": "#8a8a8a",
-
     "editor.selectionBackground": "#4d4d4d5b",
-
-    // List/Tree Hover effect to match the theme
-    "list.hoverBackground": "#fc4384",
-    "list.hoverForeground": "#fff",
 
     // Activity bar
     "activityBarBadge.background": "#fc4384",
