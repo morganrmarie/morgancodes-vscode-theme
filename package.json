@@ -1,27 +1,43 @@
 {
-    "name": "morgan-codes-vscode-theme",
-    "publisher": "morgan-codes",
-    "icon": "images/icon.jpg",
-    "displayName": "morgan.codes-theme",
-    "description": "A bright, modern, contrasting theme - created for you, by Morgan Richardson.",
-    "version": "0.0.2",
-    "engines": {
-        "vscode": "^1.41.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "morgan.codes",
-                "uiTheme": "vs-dark",
-                "path": "./themes/morgan.codes-color-theme.json"
-            }
-        ]
-    },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/morganrmarie/morgancodes-vscode-theme"
-    }
+	"name": "morgan-codes-vscode-theme",
+	"version": "0.0.4",
+	"displayName": "morgan.codes-theme",
+	"description": "A bright, modern, contrasting theme - created for you, by Morgan Richardson.",
+	"publisher": "morgan-codes",
+	"maintainers": [
+		"Morgan Richardson <hello@morgancodes.co>"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/morganrmarie/morgancodes-vscode-theme.git"
+	},
+	"bugs": {
+		"url": "https://github.com/morganrmarie/morgancodes-vscode-theme/issues"
+	},
+	"engines": {
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"morgan.codes",
+		"dark",
+		"modern",
+		"contrasting"
+	],
+	"icon": "icon.jpg",
+	"galleryBanner": {
+		"color": "#000000",
+		"theme": "dark"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "morgan.codes",
+				"uiTheme": "vs-dark",
+				"path": "./themes/morgan.codes-color-theme.json"
+			}
+		]
+	}
 }

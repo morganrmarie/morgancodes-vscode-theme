@@ -1,2 +1,4 @@
-.vscodeignore
-.vscode
+node_modules/
+/theme/
+/tests/
+bin/
