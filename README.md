@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.gatsbyjs.org">
-    <img alt="morgan.codes theme icon" src="images/icon.jpg" width="100" />
+    <img alt="morgan.codes theme icon" src="icon.jpg" width="100" />
   </a>
 </p>
 <h2 align="center">Galactic</h2>
