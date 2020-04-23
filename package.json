@@ -26,7 +26,7 @@
 		"modern",
 		"contrasting"
 	],
-	"icon": "./icon.jpg",
+	"icon": "icon.jpg",
 	"galleryBanner": {
 		"color": "#000000",
 		"theme": "dark"
