@@ -3,7 +3,7 @@
     <img alt="morgan.codes theme icon" src="icon.jpg" width="100" />
   </a>
 </p>
-<h2 align="center">Galactic</h2>
+<h2 align="center">morgan.codes-theme</h2>
 <h5 align="center">Created for you, by <a href="https://www.instagram.com/morgan.codes">@morgan.codes</a></h5>
 
 A bright, modern, contrasting dark theme for Visual Studio Code 🦄
