@@ -27,6 +27,7 @@
 
 		// Status bar
 		"statusBar.background": "#fc4384",
+		"statusBar.noFolderBackground" : "#fc4384",
 		"statusBar.foreground": "#ffffff",
 		"statusBar.border": "#080808",
 
